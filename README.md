@@ -1,11 +1,7 @@
-### 📊 My Stats & Metrics
+### 📊 My Performance & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasper1229&show_icons=true&theme=dracula&count_private=true" alt="Jasper's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper1229&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasper1229&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-nine-kappa-49.vercel.app/api?username=Jasper1229&show_icons=true&theme=dracula&count_private=true" alt="Jasper's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-nine-kappa-49.vercel.app/api/top-langs/?username=Jasper1229&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
 <!---
