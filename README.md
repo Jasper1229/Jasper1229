@@ -1,26 +1,25 @@
+# Jasper
 
-### 📊 My Performance & Metrics
-<p align="center">
-  <!-- Main Stats Card (Tracks Private + Org work, hides total issues) -->
-  <img src="https://github-readme-stats-nine-kappa-49.vercel.app/api?username=Jasper1229&show_icons=true&theme=dracula&count_private=true&include_orgs=true&hide=issues" alt="Jasper's GitHub Stats" height="180" />
-  
-  <!-- Top Languages Card (Excludes specified repos and filters out frontend web languages) -->
-  <img src="https://github-readme-stats-nine-kappa-49.vercel.app/api/top-langs/?username=Jasper1229&layout=compact&theme=dracula&langs_count=6&include_orgs=true&exclude_repo=AiNupiz,github-readme-stats,Info&hide=javascript,css,html" alt="Top Languages" height="180" />
+Backend-focused developer. I mostly write Java, work with MongoDB/PostgreSQL, and manage my own Linux infrastructure. Currently learning React to round out the frontend side.
+
+## What I work on
+
+I build backend systems and server infrastructure — plugin development, database design, and self-hosted deployments. Two projects I'm actively working on:
+
+- **Raid: The Nether** : a Minecraft extraction-shooter server built from the ground up with custom Paper plugins.
+- **Djed** : a Spring Boot / PostgreSQL backend for a productivity app that tracks learning progress through skills, skill trees, and time-tracked sessions, so effort put into a subject automatically rolls up to everything above it.
+
+- **Java** : Paper plugin development (game mechanics, event systems) and Spring Boot for application backends
+- **MongoDB / PostgreSQL** : persistent data modeling, schema design, economy and progress-tracking systems
+- **Linux / self-hosting** : VPS management, deployment, uptime and performance tuning
+
+## Currently learning
+
+- **React** : I'm a beginner here. Working through building actual UI for admin dashboards and player-facing tools rather than just following tutorials.
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-nine-kappa-49.vercel.app/api?username=Jasper1229&show_icons=true&theme=dracula&count_private=true&include_orgs=true&hide=issues" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-nine-kappa-49.vercel.app/api/top-langs/?username=Jasper1229&layout=compact&theme=dracula&langs_count=6&include_orgs=true&exclude_repo=AiNupiz,github-readme-stats,Info&hide=javascript,css,html" alt="Top Languages" height="165" />
 </p>
-
----
-
-## ⚡ Current Focus: Raid: The Nether
-> **An extraction shooter Minecraft server project utilizing custom plugins and self-hosted infrastructure.**
-
-### 🛠️ Core Technical Stack & Systems
-
-*   **Java Development:** Engineering custom Paper plugins from scratch to build tailored gameplay mechanics, event-driven progression systems, and modular features.
-*   **Database Administration:** Integrating MongoDB to handle persistent data pipelines, managing player states, secure data storage, and real-time virtual economy systems.
-*   **Systems Administration:** Managing Linux VPS environments, self-hosting server instances, and organizing development pipelines to ensure stable performance and uptime.
-
-
-<!---
-Jasper1229/Jasper1229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
