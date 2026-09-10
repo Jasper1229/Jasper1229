@@ -4,18 +4,18 @@ Backend-focused developer. I mostly write Java, work with MongoDB/PostgreSQL, an
 
 ## What I work on
 
-I build backend systems and server infrastructure — plugin development, database design, and self-hosted deployments. Two projects I'm actively working on:
+I build backend systems and server infrastructure: plugin development, database design, and self-hosted deployments. Two projects I'm actively working on:
 
-- **Raid: The Nether** : a Minecraft extraction-shooter server built from the ground up with custom Paper plugins.
-- **Djed** : a Spring Boot / PostgreSQL backend for a productivity app that tracks learning progress through skills, skill trees, and time-tracked sessions, so effort put into a subject automatically rolls up to everything above it.
+- **Raid: The Nether**, a Minecraft extraction-shooter server built from the ground up with custom Paper plugins.
+- **Djed**, a Spring Boot / PostgreSQL backend for a productivity app that tracks learning progress through skills, skill trees, and time-tracked sessions, so effort put into a subject automatically rolls up to everything above it.
 
-- **Java** : Paper plugin development (game mechanics, event systems) and Spring Boot for application backends
-- **MongoDB / PostgreSQL** : persistent data modeling, schema design, economy and progress-tracking systems
-- **Linux / self-hosting** : VPS management, deployment, uptime and performance tuning
+- **Java**: Paper plugin development (game mechanics, event systems) and Spring Boot for application backends
+- **MongoDB / PostgreSQL**: persistent data modeling, schema design, economy and progress-tracking systems
+- **Linux / self-hosting**: VPS management, deployment, uptime and performance tuning
 
 ## Currently learning
 
-- **React** : I'm a beginner here. Working through building actual UI for admin dashboards and player-facing tools rather than just following tutorials.
+- **React**: learning this to build proper frontends for my backend projects (starting with Djed) and move toward full-stack development.
 
 ## Stats
 
